@@ -42,7 +42,7 @@ The goal of this project is to build a regression model that can predict car pri
 
 ### Actual vs Predicted Car Prices
 
-![Graph](images/actual_vs_predicted.png)
+![Graph](images/images/actual_vs_predicted.png)
 
 ---
 
